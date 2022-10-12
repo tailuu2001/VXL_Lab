@@ -1,0 +1,5 @@
+main.c:64:5:main	24	static
+main.c:114:6:setNumonClock	16	static
+main.c:316:6:SystemClock_Config	72	static
+main.c:352:13:MX_GPIO_Init	32	static
+main.c:401:6:Error_Handler	4	static,ignoring_inline_asm
